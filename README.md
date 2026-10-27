@@ -35,7 +35,6 @@
 <img src="https://camo.githubusercontent.com/16b52621932a556fbac9ae4101250a283e6cddf0b2b7ed1a218a2d4d95cd356b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="GitHub" width="48" height="48" />
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="VS Code" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
 
 </div>
